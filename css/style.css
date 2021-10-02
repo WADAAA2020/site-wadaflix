@@ -1,0 +1,38 @@
+body{
+    background-color:  black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+}
+
+.titulo{
+    font-family: monospace;
+    font-size: 50px;
+    color: snow;
+}
+
+.destaque{
+    background-color: black;
+    color: red;
+}
+
+.container img{
+    height: 370px;
+    width: 250px;
+    object-fit: cover;
+    margin: 5px;
+}
+
+iframe{
+    height: 50vw;
+    width: 90vw;
+    margin: 10px;
+}
